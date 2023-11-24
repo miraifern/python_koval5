@@ -1,0 +1,5 @@
+Це перше речення.
+Текст українськими словами: сонце, квітка, дерево.
+Text with English words: sun, flower, tree.
+Ще одне українське слово: вода.
+Another English word: water.
